@@ -1,0 +1,45 @@
+body {
+    background: rgba(165, 2, 39, 1);
+}
+
+.header {
+    
+    width: 80%;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+/*    float: right;*/
+    
+    background-color: rgba(100, 200, 150, 1);
+}
+
+
+#section {
+    
+    width: 68%;
+    height: 500px;
+ /*   margin-left: auto;
+    margin-right: auto;*/
+    
+    float: left;
+    
+    background-color: rgba(100, 100, 50, 1);
+    
+}
+
+.aside {
+    
+    width: 32%;
+    height: 500px;
+    
+/*跟body盒子的距離，第1種寫法*/
+/*    margin-left: 68%;*/
+    
+/*第2種寫法*/
+/*    float: right;*/
+    
+/*第3種寫法*/
+    overflow: auto;
+    
+    background-color: rgba(100, 200, 150, 1);
+}

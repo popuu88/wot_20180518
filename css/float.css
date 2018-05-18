@@ -1,0 +1,45 @@
+.gray{
+  
+  width: 80%;
+     
+  margin-left: auto;
+  margin-right: auto;
+  
+  background-color: rgb(180, 10, 75);
+}
+
+.fix{
+    
+    
+}
+
+.orange{
+  
+  width: 200px;
+  height: 250px;  
+  background-color: rgba(100, 170, 50, 1);
+}
+
+.purple{
+ 
+  width: 200px;
+  height: 250px;
+  background-color: rgba(200, 100, 100, 1);
+  float: left;  
+}
+
+.yellow{
+ 
+  width: 200px;
+  height: 250px; 
+  float: right;  
+/*  margin-left: 100px;  */
+   
+  background-color: rgba(250, 200, 150, 1);
+}
+
+
+.clearfix{
+    
+ clear: both;   
+}
